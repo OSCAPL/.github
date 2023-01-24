@@ -5,5 +5,5 @@ We write specifications for Computer Architectures and Programming Languages.
 - [The STVM architecture specification](https://github.com/trap-representation/STVM)
 - [The Automata42 language specification](https://github.com/trap-representation/Automata42)
 
-## Completed Projects ##
+## Projects reaching completion ##
 - [The Extremely Small File Format specification](https://github.com/OSCAPL/Extremely-Small-File-Format)
